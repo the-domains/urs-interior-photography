@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-08T07:58:28.351Z'
-dateModified: '2016-06-08T07:58:14.070Z'
+description: 'Furniture shooting for the young company Garage Eight. '
+datePublished: '2016-06-08T19:18:18.085Z'
+dateModified: '2016-06-08T18:27:04.737Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-interior-and-furniture-photography.md
@@ -17,15 +17,20 @@ url: interior-and-furniture-photography/index.html
 _type: Article
 
 ---
-Furniture shooting for the young company Garage Eight.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b52177b-7bcb-486d-b31c-c0c44aab1f8d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0107ef13-796e-4e16-bb68-af934c0f806b.jpg)
 
-The studio gave us the opportunity to use all the beautiful walls and decoration items. Since we have in this shot, windows in the back, we where able to set the light through them.
+Furniture shooting for the young company Garage Eight.
+
+The studio gave us the opportunity to use all the beautiful walls and decoration items. The windows in the back made it possible to set light through them.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffd773b1-a57f-4a86-93f0-530d0823c353.jpg)
 
-The piano is not just for decoration. You see the stone from the tuner on top. Lighting was more difficult here
+The piano is not just for decoration. You see the stone from the tuner on top. Lighting was more difficult here. We worked with three spots and a big umbrella for the main light.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/908b6cc7-1f8c-4caf-9ad7-9420e70f1336.jpg)
+
+Main light here was a 70 cm beauty dish with honeycombgrid from the right to lighten up the tables and keeping the sofa dark. One soft striplight behind the sofa and a large sunbounce reflector form the left, with flash. And at least a lamp with a snoot for the green chair/table/tablet.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3e5a04-4093-4415-9bbd-d1e665c32685.jpg)
+
+Flashes through the windows from the left and the back and spots for the chairs.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ae8be71-9f72-423a-bd68-b9192dfdc421.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a669308f-73fb-4afd-92e0-d1dc4474af0e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f9725ba-841e-4827-a1a0-5a9c3c544258.jpg)
