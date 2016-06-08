@@ -1,6 +1,6 @@
 name: Urs Kuckertz Photography
 favicon: null
-layout_spectrum: 0.62859
+layout_spectrum: 0.75148
 typography_spectrum: 0.61928
 title: Furniture and Interior Photography for your Website and Catalog
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
