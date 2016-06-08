@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-07T11:01:38.470Z'
-dateModified: '2016-06-07T11:00:48.718Z'
+datePublished: '2016-06-08T03:30:27.322Z'
+dateModified: '2016-06-08T03:29:55.315Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-07-interior-and-furniture-photography.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-07-interior-and-furniture-photography.md
 url: interior-and-furniture-photography/index.html
 _type: Article
 
