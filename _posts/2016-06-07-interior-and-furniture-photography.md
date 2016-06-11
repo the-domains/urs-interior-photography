@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Furniture shooting for the young company Garage Eight.
-datePublished: '2016-06-11T09:36:46.025Z'
-dateModified: '2016-06-11T09:35:44.681Z'
+datePublished: '2016-06-11T09:51:32.426Z'
+dateModified: '2016-06-11T09:42:19.339Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-interior-and-furniture-photography.md
@@ -23,6 +23,8 @@ The studio gave us the opportunity to use all the beautiful walls and decoration
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffd773b1-a57f-4a86-93f0-530d0823c353.jpg)
 
 The piano is not just for decoration. You see the stone from the tuner on top. Lighting was more difficult here. We worked with three spots and a big umbrella for the main light.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd042bb1-7b8f-4712-9fd6-8cf0adf3b433.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfa8c932-43a6-40e2-8ef1-b6827dc6d423.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/908b6cc7-1f8c-4caf-9ad7-9420e70f1336.jpg)
 
 Main light here was a 70 cm beauty dish with honeycombgrid from the right to lighten up the tables and keeping the sofa dark. One soft striplight behind the sofa and a large sunbounce reflector form the left, with flash. And at least a lamp with a snoot for the green chair/table/tablet.
@@ -60,5 +62,3 @@ asdfasdfasdfasdfasdf
 
 asdfasdfasdfasdfasdf
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f1cfbdf-77ba-4ec8-93fc-bf012bc9a0c6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd042bb1-7b8f-4712-9fd6-8cf0adf3b433.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfa8c932-43a6-40e2-8ef1-b6827dc6d423.jpg)
