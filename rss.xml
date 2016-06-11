@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Furniture and Interior Photography for your Website and Catalog]]></title>
+        <description><![CDATA[Furniture and Interior Photography for your Website and Catalog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 11 Jun 2016 11:25:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Interior and Furniture Photography]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/908b6cc7-1f8c-4caf-9ad7-9420e70f1336.jpg">]]></description>
+            <link>undefinedinterior-and-furniture-photography/index.html</link>
+            <guid isPermaLink="false">a9e32608-d743-410f-8fb6-e54b2b0f1525</guid>
+            <pubDate>Sat, 11 Jun 2016 11:25:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
