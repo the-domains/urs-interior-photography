@@ -1,20 +1,20 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Furniture shooting for the young company Garage Eight.
-datePublished: '2016-06-11T10:06:30.702Z'
-dateModified: '2016-06-11T10:04:04.803Z'
+datePublished: '2016-06-11T11:25:05.924Z'
+dateModified: '2016-06-11T11:16:39.015Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-interior-and-furniture-photography.md
 authors: []
 publisher: null
 starred: false
-_type: Blurb
+url: interior-and-furniture-photography/index.html
+_type: Article
 
 ---
 Furniture shooting for the young company Garage Eight.
