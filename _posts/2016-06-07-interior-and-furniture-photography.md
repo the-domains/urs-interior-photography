@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Furniture shooting for the young company Garage Eight.
-datePublished: '2016-06-11T09:35:04.336Z'
-dateModified: '2016-06-11T09:32:23.253Z'
+datePublished: '2016-06-11T09:36:46.025Z'
+dateModified: '2016-06-11T09:35:44.681Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-interior-and-furniture-photography.md
