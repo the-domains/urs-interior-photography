@@ -4,9 +4,12 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Furniture shooting for the young company Garage Eight.
-datePublished: '2016-06-13T10:47:41.318Z'
-dateModified: '2016-06-13T10:31:05.929Z'
+description: >-
+  The studio gave us the opportunity to use all the beautiful walls and
+  decoration items. The windows in the back made it possible to set light
+  through them.
+datePublished: '2016-06-13T11:09:27.475Z'
+dateModified: '2016-06-13T10:47:42.161Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-interior-and-furniture-photography.md
@@ -17,7 +20,6 @@ url: interior-and-furniture-photography/index.html
 _type: Article
 
 ---
-Furniture shooting for the young company Garage Eight.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/908b6cc7-1f8c-4caf-9ad7-9420e70f1336.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffd773b1-a57f-4a86-93f0-530d0823c353.jpg)
 
