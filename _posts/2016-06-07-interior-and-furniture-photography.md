@@ -8,8 +8,8 @@ description: >-
   The studio gave us the opportunity to use all the beautiful walls and
   decoration items. The windows in the back made it possible to set light
   through them.
-datePublished: '2016-06-13T16:50:33.480Z'
-dateModified: '2016-06-13T16:50:32.323Z'
+datePublished: '2016-06-13T17:40:56.574Z'
+dateModified: '2016-06-13T17:28:37.944Z'
 title: ''
 author:
   - name: ''
@@ -23,13 +23,13 @@ _type: Article
 
 ---
 The studio gave us the opportunity to use all the beautiful walls and decoration items. The windows in the back made it possible to set light through them.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/038c4b8d0b4843243234c7302da339fe17a6477b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e244fa6a098a42e64b38c374a060d26c55df799c.jpg)
 
 The piano is not just for decoration. You see the stone from the tuner on top. Lighting was more difficult here. We worked with three spots and a big umbrella for the main light.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4d7a239-04c3-49fc-a95e-25d0786a8ddb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef65d6349fc381fa8d59126fec0402b234adf5b8.jpg)
 
 Main light here was a 70 cm beauty dish with honeycombgrid from the right to lighten up the tables and keeping the sofa dark. One soft striplight behind the sofa and a large sunbounce reflector form the left, with flash. And at least a lamp with a snoot for the green chair/table/tablet.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3e5a04-4093-4415-9bbd-d1e665c32685.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d758400a469b5ef65499eb1959edfbeb7a8f5d6.jpg)
 
 Flashes through the windows from the left and the back and spots for the chairs.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5b3ecc0-e33f-421a-8224-c31fd67e13af.jpg)
@@ -44,7 +44,7 @@ asdfsfdsdf
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8467a7e-be47-4356-9164-b1db8f8757f1.jpg)
 
 asdfasdfasdfasdfasdf
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c182e3a3-41f5-48c4-bc80-ba93971eb2dd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/beda6384967782f7920215f6bf13adcf0b1bec5e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de2b4f1b-2d2d-4c52-9b87-f7b9cbd0ef66.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df0213b7-6ab8-4153-9742-d9f7cb00c162.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37fe64d5-eb85-49d2-8877-bd6add6b91ea.jpg)
