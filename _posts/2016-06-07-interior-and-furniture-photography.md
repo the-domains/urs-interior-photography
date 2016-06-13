@@ -4,11 +4,16 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-13T14:16:17.525Z'
-dateModified: '2016-06-13T14:15:56.216Z'
+description: >-
+  The studio gave us the opportunity to use all the beautiful walls and
+  decoration items. The windows in the back made it possible to set light
+  through them.
+datePublished: '2016-06-13T16:50:33.480Z'
+dateModified: '2016-06-13T16:50:32.323Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-07-interior-and-furniture-photography.md
 authors: []
 publisher: null
@@ -18,7 +23,7 @@ _type: Article
 
 ---
 The studio gave us the opportunity to use all the beautiful walls and decoration items. The windows in the back made it possible to set light through them.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba7ec871-6d33-4e5e-867f-7783ad3c6d0b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/038c4b8d0b4843243234c7302da339fe17a6477b.jpg)
 
 The piano is not just for decoration. You see the stone from the tuner on top. Lighting was more difficult here. We worked with three spots and a big umbrella for the main light.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4d7a239-04c3-49fc-a95e-25d0786a8ddb.jpg)
